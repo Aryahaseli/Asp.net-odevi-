@@ -1,0 +1,31 @@
+C:\Users\Sistem\Desktop\Asp.net odevi\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\Sistem\Desktop\Asp.net odevi\bin\Debug\net7.0\appsettings.json
+C:\Users\Sistem\Desktop\Asp.net odevi\bin\Debug\net7.0\Asp.net odevi.staticwebassets.runtime.json
+C:\Users\Sistem\Desktop\Asp.net odevi\bin\Debug\net7.0\Asp.net odevi.exe
+C:\Users\Sistem\Desktop\Asp.net odevi\bin\Debug\net7.0\Asp.net odevi.deps.json
+C:\Users\Sistem\Desktop\Asp.net odevi\bin\Debug\net7.0\Asp.net odevi.runtimeconfig.json
+C:\Users\Sistem\Desktop\Asp.net odevi\bin\Debug\net7.0\Asp.net odevi.dll
+C:\Users\Sistem\Desktop\Asp.net odevi\bin\Debug\net7.0\Asp.net odevi.pdb
+C:\Users\Sistem\Desktop\Asp.net odevi\obj\Debug\net7.0\Asp.net odevi.csproj.AssemblyReference.cache
+C:\Users\Sistem\Desktop\Asp.net odevi\obj\Debug\net7.0\Asp.net odevi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sistem\Desktop\Asp.net odevi\obj\Debug\net7.0\Asp.net odevi.AssemblyInfoInputs.cache
+C:\Users\Sistem\Desktop\Asp.net odevi\obj\Debug\net7.0\Asp.net odevi.AssemblyInfo.cs
+C:\Users\Sistem\Desktop\Asp.net odevi\obj\Debug\net7.0\Asp.net odevi.csproj.CoreCompileInputs.cache
+C:\Users\Sistem\Desktop\Asp.net odevi\obj\Debug\net7.0\Asp.net odevi.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Sistem\Desktop\Asp.net odevi\obj\Debug\net7.0\Asp.net odevi.RazorAssemblyInfo.cache
+C:\Users\Sistem\Desktop\Asp.net odevi\obj\Debug\net7.0\Asp.net odevi.RazorAssemblyInfo.cs
+C:\Users\Sistem\Desktop\Asp.net odevi\obj\Debug\net7.0\staticwebassets\msbuild.Asp.net odevi.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Sistem\Desktop\Asp.net odevi\obj\Debug\net7.0\staticwebassets\msbuild.build.Asp.net odevi.props
+C:\Users\Sistem\Desktop\Asp.net odevi\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.Asp.net odevi.props
+C:\Users\Sistem\Desktop\Asp.net odevi\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.Asp.net odevi.props
+C:\Users\Sistem\Desktop\Asp.net odevi\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\Sistem\Desktop\Asp.net odevi\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\Sistem\Desktop\Asp.net odevi\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\Sistem\Desktop\Asp.net odevi\obj\Debug\net7.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\Sistem\Desktop\Asp.net odevi\obj\Debug\net7.0\scopedcss\bundle\Asp.net odevi.styles.css
+C:\Users\Sistem\Desktop\Asp.net odevi\obj\Debug\net7.0\scopedcss\projectbundle\Asp.net odevi.bundle.scp.css
+C:\Users\Sistem\Desktop\Asp.net odevi\obj\Debug\net7.0\Asp.net odevi.dll
+C:\Users\Sistem\Desktop\Asp.net odevi\obj\Debug\net7.0\refint\Asp.net odevi.dll
+C:\Users\Sistem\Desktop\Asp.net odevi\obj\Debug\net7.0\Asp.net odevi.pdb
+C:\Users\Sistem\Desktop\Asp.net odevi\obj\Debug\net7.0\Asp.net odevi.genruntimeconfig.cache
+C:\Users\Sistem\Desktop\Asp.net odevi\obj\Debug\net7.0\ref\Asp.net odevi.dll
